@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "title": "Product 4",
+      "description": "Description for Product 4",
+      "price": 40.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "title": "Product 5dks",
+      "description": "Description for Product 5",
+      "price": 50.99,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2f51",
+      "title": "example Producti",
+      "description": "some description here i",
+      "price": 1999,
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "6f2e",
+      "title": "example Product",
+      "description": "some description here",
+      "price": 2000,
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
