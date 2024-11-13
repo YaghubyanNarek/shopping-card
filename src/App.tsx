@@ -4,13 +4,14 @@ import { ProductItem } from "./pages/productItem/ProductItem";
 import { Header } from "./components/header/Header";
 import { AdminAdd } from "./pages/adminAdd/AdminAdd";
 import { AdminUpdate } from "./pages/adminUpdate/AdminUpdate";
+import { Home } from "./pages/home/Home";
 
 function App() {
   return (
     <>
     <Header />
     <Routes>
-      <Route path="/" element={<>home</>}/>
+      <Route path="/" element={<Home />}/>
       <Route path="/products" element={<Products />}/>
       <Route path="/Admin/add" element={<AdminAdd />}/>
       <Route path="/Admin" element={<AdminUpdate />}/>
