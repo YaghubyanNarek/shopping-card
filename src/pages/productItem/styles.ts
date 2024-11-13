@@ -72,7 +72,7 @@ export const useStyles = createUseStyles({
   basketContainer: {
     flex: 1,
     position: 'sticky',
-    top: '20px', // Keeps the basket fixed when scrolling
+    top: '20px', 
     alignSelf: 'flex-start',
     width: '100%',
     maxWidth: '300px',
